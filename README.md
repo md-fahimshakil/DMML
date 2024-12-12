@@ -1,1 +1,1 @@
-# DMML
+pip install scikit-learn
